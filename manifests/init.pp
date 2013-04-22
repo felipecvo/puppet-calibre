@@ -5,7 +5,7 @@
 #   include calibre
 class calibre {
   package { 'Calibre':
-    source   => 'http://status.calibre-ebook.com/dist/osx32',
+    source   => 'http://calibre-ebook.googlecode.com/files/calibre-0.9.27.dmg',
     provider => 'appdmg'
   }
 }
