@@ -1,6 +1,6 @@
 # Calibre Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/petems/puppet-calibre.png?branch=master)](https://travis-ci.org/petems/puppet-calibre)
+[![Build Status](https://travis-ci.org/boxen/puppet-calibre.png?branch=master)](https://travis-ci.org/boxen/puppet-calibre)
 
 Install [Calibre](http://calibre-ebook.com/), an ebook manager for Mac
 
