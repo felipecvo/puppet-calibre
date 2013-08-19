@@ -5,7 +5,7 @@
 #   include calibre
 class calibre {
   package { 'Calibre':
-    source   => 'http://calibre-ebook.googlecode.com/files/calibre-0.9.30.dmg',
+    source   => 'http://www.fosshub.com/Calibre.html/calibre-0.9.44.dmg',
     provider => 'appdmg'
   }
 }
