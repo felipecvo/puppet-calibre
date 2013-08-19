@@ -4,7 +4,7 @@ describe 'calibre' do
   it do
     should contain_package('Calibre').with({
       :provider => 'appdmg',
-      :source   => 'http://calibre-ebook.googlecode.com/files/calibre-0.9.30.dmg'
+      :source   => 'http://www.fosshub.com/Calibre.html/calibre-0.9.44.dmg'
     })
   end
 end
